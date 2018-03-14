@@ -1,5 +1,5 @@
 # PatientFilter
-The is a given the task given for Gsoc2018 by LibreHealth 
+The is a given task  for Gsoc2018 by LibreHealth 
 This application is a spring mvc dynamic web development application https://github.com/Tejasgth/PatientFilter.git
 This application includes- 
       1- The User Interface is designed with Html,jQuery,JSP 
