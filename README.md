@@ -31,7 +31,7 @@ This application includes-
 1. Perform maven clean build using eclipse OR
 2. Set the application path in cmd.
         cd Application path 
-         maven clean build
+         maven clean install
 ## Run Application
 The application can be runned in two ways 
  1 . Run the tomcat by selecting  run as server in eclipse .
