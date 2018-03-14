@@ -1,0 +1,4 @@
+com\fhir\Patient\patientDetail.class
+com\fhir\Patient\fhirConfig$patientdetails.class
+com\fhir\Patient\fhirConfig.class
+com\fhir\Patient\Duplicatevalues.class
